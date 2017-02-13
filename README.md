@@ -9,9 +9,11 @@ This project detects lane lines in images using Python and [OpenCV](https://open
 
 Click here to see the lane line detection in action [challanged](https://youtu.be/1R4XJl70uN8)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1R4XJl70uN8" frameborder="0" allowfullscreen></iframe>
+
 ## View the project
 
-Click [P1.ipynb](./P1.ipynb) or use nbviewer version.
+Click [this link](http://nbviewer.jupyter.org/github/kanhua/CarND-LaneLines-P1/blob/master/P1.ipynb) to view this project on nbviewer. It should display videos rendered by the code.
 
 
 ## Installing the dependencies of this project
