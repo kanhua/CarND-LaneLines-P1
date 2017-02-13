@@ -7,9 +7,11 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 This project detects lane lines in images using Python and [OpenCV](https://opencv.org). 
 
-Click here to see the lane line detection in action [challanged](https://youtu.be/1R4XJl70uN8)
+## View the lane detection in action
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1R4XJl70uN8" frameborder="0" allowfullscreen></iframe>
+- Standard (white lanes) [Youtube link](https://youtu.be/TKo8vB_5yrM)
+- Standard (white and yellow lanes) [Youtube link](https://youtu.be/nYLBQz-SdXI)
+- Challenge one [Youtube link](https://youtu.be/1R4XJl70uN8)
 
 ## View the project
 
@@ -22,7 +24,7 @@ Click [this link](http://nbviewer.jupyter.org/github/kanhua/CarND-LaneLines-P1/b
 
 Follow the instructions on [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) and install the starter kit.
 
-### Option 2: 
+### Option 2: Setup a native python environment 
 
 **Step 1:** Getting setup with Python
 
